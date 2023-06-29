@@ -1,0 +1,26 @@
+{
+  "title": "Villa y corte 1ºed para Sandbox",
+  "authors": [
+    {
+      "name": "Luvero",
+      "discord": "Luvero#5745",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Luvero-1/villa-y-corte-sandbox",
+  "version": "0.1.0",
+  "system": "sandbox",
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/villa-y-corte-sandbox/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/villa-y-corte-sandbox/zip/main",
+  "background": "worlds/villa-y-corte-sandbox/2%20Im%C3%A1genes/Fondo%20villa-y-corte.jpg",
+  "coreVersion": "10.291",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.14.0(RC7)",
+  "id": "villa-y-corte-sandbox",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291"
+  },
+  "packs": []
+}
